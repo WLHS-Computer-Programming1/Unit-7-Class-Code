@@ -59,3 +59,7 @@ print(random_nums)
 # insert item a specific location
 random_nums.insert(1,4)
 print(random_nums)
+
+# reverse
+random_nums.reverse()
+print(random_nums)
